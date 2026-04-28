@@ -1,1 +1,17 @@
+# MNIST data - quá nặng, tải từ torchvision tự động
+task1_deep_belief_network/data/
 
+# VQA dataset - quá nặng (31MB)
+task2_vqa/seq2seq/VQA-E_val_set.json
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
